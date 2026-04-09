@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+.venv/
+__pycache__/
+
+# Local datasets and generated splits
+part1/train/
+part2/Images/
+part2/Annotation/
